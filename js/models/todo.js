@@ -1,5 +1,3 @@
-// js/models/todo.js
-
 /*global Backbone */
 var app = app || {};
 
